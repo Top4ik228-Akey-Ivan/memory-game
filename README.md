@@ -9,6 +9,11 @@
     <img src="https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=REACT" alt="react"/>
 </div>
 
+## Внешний вид приложения
+
+![MemoryGame](/src//images/screenshots/MemmoryGame.png)
+![MemoryGame](/src//images/screenshots/Memory.png)
+
 ## Запуск проекта
 
 В терминале корня проекта прописать:
